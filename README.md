@@ -1,5 +1,8 @@
 # phase 1 Independent project
 
+# Deployed link
+https://code-challenge-4.netlify.app/
+
 # Project name:
 Weather App
 
@@ -51,3 +54,4 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE
 
 # Author
 The project was developed by Catherine Mathenge.
+
