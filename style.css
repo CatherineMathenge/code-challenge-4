@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(211, 176, 176);
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(14, 13, 13);
+  }
+  
+  #weather-form {
+    background:white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  #city-input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #7e9b7f;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
